@@ -5,7 +5,7 @@ $vistor_email = $_POST ['email'];
 $subject = $_POST ['subject'];
 $message = $_POST ['message'];
 
-$email_from = 'isaacadudarko@gmail.com';
+$email_from = 'https://platinumstudiosrexx.github.io/Jaljil-institute.gh/';
 
 $emial_subject = 'New form Submission';
 
